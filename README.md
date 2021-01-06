@@ -13,4 +13,5 @@ or visit my [blog](https://www.thaumy.cn)
 * Web Development on .NET platform
 * JVM Building
 * Cross platform app
+* UI Design
 * Database tuning
