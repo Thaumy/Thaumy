@@ -10,9 +10,8 @@ or visit my [blog](https://www.thaumy.cn)
 
 ### Now Focusing🎯
 
-* Web Development on .NET platform
-* JVM Building
-* Cross platform app
+* DB tuning
+* JVM/.NET Dev
 * UI Design
-* Database tuning
 * Util
+* Fishing
