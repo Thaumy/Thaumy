@@ -15,4 +15,4 @@ or visit my [blog](https://www.thaumy.cn)
 * JVM/.NET Dev
 * UI Design
 * Util
-* Fishing
+* ~~Fishing~~
