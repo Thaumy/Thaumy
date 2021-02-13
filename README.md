@@ -7,20 +7,16 @@ Hello, I'm Thaumy who is interested in programming and devoted to put my knowled
 Ask me about anything [here](https://github.com/Thaumy/Thaumy/issues)  
 or visit my [blog](https://www.thaumy.cn)  
 
-<div style="float:right;">
-
 ![stats](https://github-readme-stats.vercel.app/api?username=Thaumy&show_icons=true)
-
-</div>
 
 <div style="float:left;">
 
 ### Now Focusing🎯
 
+* Networking
 * DB tuning
-* JVM/.NET Dev
-* UI Design
-* Util
+* JVM/.NET
+* UI Design and Utils
 * ~~Fishing~~
 
 </div>
