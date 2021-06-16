@@ -11,8 +11,8 @@ or visit my [blog](https://www.thaumy.cn)
 
 ### Now Focusing🎯
 
-* Networking
-* DB tuning
-* JVM/.NET
-* UI Design and Utils
+* Computation theory
+* Regexpr
+* FP
+* Utils dev
 * ~~Fishing~~
