@@ -1,0 +1,49 @@
+<svg fill="none" viewBox="0 0 800 800" width="800" height="800" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                .it1{
+                    grid-column-start:1;
+                    grid-column-end:2;
+                }
+                .it2{
+                    grid-column-start:2;
+                    grid-column-end:3;
+                    grid-row-start:1;
+                    grid-row-end:3;
+                }
+                .it3{
+                    grid-column-start:1;
+                    grid-column-end:2;
+                    grid-row-start:2;
+                    grid-row-end:3;
+                }
+                .intro{
+                    width:100%;
+                    display:grid;
+                    grid-template-columns: 80% 20%;
+                    grid-template-rows: auto auto;
+                }
+            </style>
+
+            <div class="intro">
+
+                <div class="it1">
+                    Hello, I'm Thaumy.<br/>
+                    One who interested in computer science and devoted to put my knowledge into practice. I enjoy coding because it make my life vivid and colorful.
+                </div>
+
+                <div class="it2" >
+                    <img width="100%" src="./img.png"/>
+                </div>
+
+                <div class="it3">
+                    Ask me about anything [Here](https://github.com/Thaumy/Thaumy/issues)<br/>
+                    Or visit my [Blog](https://www.thaumy.cn)
+                </div>
+
+            </div>
+
+		</div>
+	</foreignObject>
+</svg>
