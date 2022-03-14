@@ -10,5 +10,3 @@ I enjoy coding because it make my life vivid and colorful.
 
 Ask me about anything [Here](https://github.com/Thaumy/Thaumy/issues)  
 Or visit my [Blog](https://www.thaumy.cn)  
-
-![](https://github-readme-stats.vercel.app/api?username=Thaumy&show_icons=true)
