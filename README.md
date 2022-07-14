@@ -4,9 +4,9 @@
 
 <img src="./img.png" align="left" width="120"/>
 
-Hello, I'm Thaumy.  
-One who interested in computer science and devoted to put my knowledge into practice.  
-I enjoy coding because it make my life vivid and colorful.  
+Hello, This is Thaumy.  
+One love computer science with pure interest.  
+Coding makes my life vivid and colorful.  
 
 Ask me about anything [Here](https://github.com/Thaumy/Thaumy/issues)  
-Or visit my [Blog](https://www.thaumy.cn)  
+Here is my [Blog](https://www.thaumy.cn) , and [Telegram](https://t.me/Thaumyy).
